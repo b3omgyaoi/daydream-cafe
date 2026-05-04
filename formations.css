@@ -29,7 +29,7 @@ body {
     color: var(--green-dark);
     background:
         linear-gradient(rgba(87, 85, 39, 0.58), rgba(129, 130, 99, 0.50)),
-        url("srr gallery/op2.jpg") center/cover fixed no-repeat;
+        url("op2.jpg") center/cover fixed no-repeat;
 }
 
 /* soft texture */
